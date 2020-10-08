@@ -30189,11 +30189,12 @@ a.u-link.u-text-hover-grey-90:hover {
  .u-header {background-image: none}
 .u-header .u-sheet-1 {min-height: 118px}
 .u-header .u-image-1 {width: 381px; height: 127px; margin: -2px auto 0} 
-@media (max-width: 1199px){ .u-header .u-image-1 {width: 381px; height: 127px} }
+@media (max-width: 1199px){ .u-header .u-sheet-1 {min-height: 125px}
+.u-header .u-image-1 {width: 381px; margin-top: initial; margin-bottom: initial; height: auto} }
 
 
 @media (max-width: 575px){ .u-header .u-sheet-1 {min-height: 104px}
-.u-header .u-image-1 {width: 340px; height: 113px} }
+.u-header .u-image-1 {width: 340px; height: auto; margin-top: initial; margin-bottom: initial} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 92px}
 .u-footer .u-text-1 {width: 417px; margin: 41px auto 29px} 
