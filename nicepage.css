@@ -30197,8 +30197,9 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-1 {width: 340px; height: auto; margin-top: initial; margin-bottom: initial} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 92px}
-.u-footer .u-text-1 {width: 417px; margin: 41px auto 29px} 
-@media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px} }
+.u-footer .u-text-1 {width: 417px; margin: 35px auto} 
+@media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px}
+.u-footer .u-text-1 {width: 417px} }
 @media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px} }
 @media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 57px} }
 @media (max-width: 575px){ .u-footer .u-sheet-1 {min-height: 36px}
